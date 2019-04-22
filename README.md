@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/vincentmuriuki/FB-messenger-bot/badge.svg?branch=master)](https://coveralls.io/github/vincentmuriuki/FB-messenger-bot?branch=master)

@@ -105,5 +105,5 @@ venv.bak/
 
 # visual studio code stuff
 .vscode/
+
 variables.env
-node_modules/
